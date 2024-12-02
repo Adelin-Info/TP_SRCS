@@ -1,4 +1,4 @@
-Ces travaux pratiques ont été réalisé dans le cadre de l'unité d'enseignement Système Répartis et Client-Serveur du Master Systèmes et Applications Réparties de Sorbonne Université Sciences.
+Ces travaux pratiques ont été réalisé dans le cadre de l'unité d'enseignement Systèmes Répartis et Client-Serveur du Master Systèmes et Applications Réparties de Sorbonne Université Sciences.
 
 Les objectifs de ce cours sont :
   - Savoir développer des applications réparties performantes
